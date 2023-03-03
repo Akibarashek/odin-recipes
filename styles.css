@@ -8,6 +8,8 @@ body
 {
     background-color: rgb(170, 166, 166);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
 }
 
 h1
@@ -15,6 +17,9 @@ h1
     text-align: center;
     font-size: 60px;
     color: rgb(175, 84, 9);
+    font-family: 'Climate crisis', Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 30px;
 }
 
 a
@@ -27,4 +32,8 @@ a
 {
     list-style-type: square;
     line-height: 1.6;
+}
+h2
+{
+    font-family: 'Comic Neue';
 }
