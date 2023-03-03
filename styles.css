@@ -1,0 +1,16 @@
+img
+{
+    width: 700px;
+    height: auto;
+}
+body
+{
+    background-color: rgb(170, 166, 166);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 60px;
+}
